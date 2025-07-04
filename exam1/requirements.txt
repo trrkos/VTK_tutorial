@@ -1,0 +1,4 @@
+vtk>=9.2.0
+PySimpleGUI>=4.60.0
+numpy>=1.21.0
+SimpleITK>=2.2.0
